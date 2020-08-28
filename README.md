@@ -1,40 +1,10 @@
-# Recriando-pagina-do-Instagram-
-Recriando a pagina inicial do Instagram - Gabriela Pinheiro 
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    font-family: sans-serif;
-    font-size: 14px;
-}
+# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
 
-body {
-    width: 100%;
-    min-height: 100vh;
-    background-color: rgb(243, 243, 243);
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
+Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
-.instagram-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    width: 60%;
-    height: 100vh;
-}
+### Os requisitos são:
 
-.instagram-phone {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 50%;
-}
+* [HTML básico](https://www.w3schools.com/html/)
+* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-.instagram-phone img {
-    height: 50rem;
-}
-
+## 🚀 Let's code! 🚀
